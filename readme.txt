@@ -1,3 +1,4 @@
+#JAVA
 #stacks posfix infix
 postfix 
 "A B C * + D +"
